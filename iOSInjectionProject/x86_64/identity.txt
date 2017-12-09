@@ -1,0 +1,2 @@
+/Users/miaomiaokeji/Library/Developer/Xcode/DerivedData/TTNews-eeuolnakynuxswdmlatmceuuhwya/Build/Products/Debug-iphonesimulator/TTNews.app
+iPhone Developer
